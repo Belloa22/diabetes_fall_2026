@@ -1,0 +1,12 @@
+# Python environments
+venv/
+.venv/
+myenv/
+__pycache__/
+*.py[cod]
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Model files
+models/*.joblib
